@@ -2,45 +2,18 @@
 title: About
 layout: page
 ---
+
 ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
-<p>Lorem Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+**P.S.: The About Me page hasn’t been updated in a while. It’s on my TODO!**
 
-<h2>Skills</h2>
+I'm currently remotely working as a **Visiting Undergraduate Research Intern** at *Harvard University's [Visual Computing Group](https://vcg.seas.harvard.edu) under professor [Hanspeter Pfister](https://vcg.seas.harvard.edu/people)*. I will be working to help build the next generation high-throughput computational electron microscope by using deep learning to enhance the imageing capabilities. 
 
-<ul class="skill-list">
-	<li>HTML - Jade - Haml - Erb</li>
-	<li>Responsive (Mobile First)</li>
-	<li>CSS (Stylus, Sass, Less)</li>
-	<li>Css Frameworks (Bootstrap, Foundation)</li>
-	<li>Javascript (Design Patterns, Testes)</li>
-	<li>NodeJS</li>
-	<li>AngularJS - ReactJS</li>
-	<li>Grunt - Gulp - Yeoman</li>
-	<li>Git</li>
-	<li>PHP</li>
-	<li>Python</li>
-	<li>MySQL - MongoDB</li>
-	<li>Scrum and Kanban</li>
-	<li>TDD e Continuous Integration</li>
-</ul>
+I also recently became a **FastAI International Fellow**.
 
-<h2>Projects</h2>
+In my free time, I am a part-time **AI Researcher** in a Space-tech startup ([Pixxel](https://www.pixxel.space)) where I work on using unsupervised and supervised deep models to gather insights from satellite imagery. I was previously a **Team Lead** for the AI team at Pixxel.
 
-<ul>
-	<li><a href="https://github.com/">Lorem Lorem</a></li>
-	<li><a href="https://github.com/">Ipsum Dolor</a></li>
-	<li><a href="https://github.com/">Dolor Lorem</a></li>
-</ul>
+*Alongside Pixxel, I am currently a pre-final year MSc. (Hons.) Mathematics student in Birla Institute of Technology and Science, Pilani, India.*
+
+I like tackling big, high impact problems. One such problem I believe in is *making AI accessible*. I am greatly influenced by Jeremy Howard’s (Co-Founder, Fast.ai) approach to AI and my belief in making AI accessible stems from Fast.ai’s core philisophy of making neural nets uncool again.
