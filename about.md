@@ -2,45 +2,21 @@
 title: About
 layout: page
 ---
+
 ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
-<p>Lorem Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+I'm currently working at *Harvard University's [Visual Computing Group](https://vcg.seas.harvard.edu) under professor [Hanspeter Pfister](https://vcg.seas.harvard.edu/people)* as a **Visiting Undergrad Research Intern**. In my time here, I've tired my hand on SoTA methods for image deblurring, super-resolution, and video instance segmentation.
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+I also recently became a **FastAI International Fellow**.
 
-<h2>Skills</h2>
+Previously (until feb 2021), I worked as a part-time **AI Researcher** and *ex-Team Lead* at a Space-tech startup ([Pixxel](https://www.pixxel.space)) where I work on computer vision techniques to analyse Geospatial Data. I spent a semester as a Teaching Assistant for BITS Pilani's flagship AI course: **Neural Networks and Fuzzy Logic.**
 
-<ul class="skill-list">
-	<li>HTML - Jade - Haml - Erb</li>
-	<li>Responsive (Mobile First)</li>
-	<li>CSS (Stylus, Sass, Less)</li>
-	<li>Css Frameworks (Bootstrap, Foundation)</li>
-	<li>Javascript (Design Patterns, Testes)</li>
-	<li>NodeJS</li>
-	<li>AngularJS - ReactJS</li>
-	<li>Grunt - Gulp - Yeoman</li>
-	<li>Git</li>
-	<li>PHP</li>
-	<li>Python</li>
-	<li>MySQL - MongoDB</li>
-	<li>Scrum and Kanban</li>
-	<li>TDD e Continuous Integration</li>
-</ul>
+I love working on anything that has to do with Computer Vision and art. If you've got something interesting on your mind, don't hesitate to hit me up!
 
-<h2>Projects</h2>
+I dropped a year after school to explore life outside academia with no constraints and external expectations (worked in AIESEC, One4all, etc. in Surat). I also **dropped my dual B.E EEE degree** in my second year in college to better focus full-time on AI/DL. You can expect me to take otherwise unconventional decisions quite frequently as long as they seem rational. I try and avoid the mental inertia of old and conventional ways of thinking, and like putting my big troubles first on my to-do list and not under the rug. 
 
-<ul>
-	<li><a href="https://github.com/">Lorem Lorem</a></li>
-	<li><a href="https://github.com/">Ipsum Dolor</a></li>
-	<li><a href="https://github.com/">Dolor Lorem</a></li>
-</ul>
+**My Big Trouble: Democratizing AI**
+
+*When not coding, or reading papers, you can find me playing drums with my band, running, and helping my fellow mates get into AI. I feel great that at least 4 people that I've helped have recently submitted their first papers to top AI conferences such as ICCV, EMNLP, and others are working at great companies like Weights and Biases, NVIDIA Research, Adobe Reserach, etc.*
+
+P.S.: I will graduate with my Masters in Mathematics degree from BITS Pilani in June 2021
