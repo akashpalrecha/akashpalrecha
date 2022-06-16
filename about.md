@@ -5,9 +5,9 @@ layout: page
 
 ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
-Hi! First of all, I'm honored that you feel this website is worth your time. I'll go on an introduce myself, but feel free to (and I encourage you to!) introduce yourself over email at akashpalrecha@gmail.com.
+Hi! First of all, I'm honored that you feel this website is worth your time. I'll go on and introduce myself, but feel free to (and I encourage you to!) introduce yourself over email at akashpalrecha@gmail.com.
 
-TLDR: I really love tinkering with anything and everything to do with deep learning and computer vision, and like to spend the rest of my time composing mind bending and beautiful drum parts in my head, and play them on a kit whenever I get the chance. I've also recently started going for boxing classes and been loving it so far.
+TLDR: I really love tinkering with anything and everything to do with deep learning and computer vision, and like to spend the rest of my time composing mind bending and beautiful drum parts in my head, and play them on a kit whenever I get the chance. I've also recently started going for boxing classes and have been loving it so far.
 
 > Current interests / upcoming pursuits: high performance computing, reinforcement learning & compilers
 
